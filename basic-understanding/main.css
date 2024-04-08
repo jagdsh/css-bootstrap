@@ -7,7 +7,7 @@ body {
 }
 
 #product-overview {
-  background: #ff1b68;
+  background-image: url("./freedom.jpg");
   padding: 20px;
   border-style: solid;
   border-color: black;
